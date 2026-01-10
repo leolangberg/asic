@@ -1,0 +1,30 @@
+ 
+****************************************
+Report : area
+Design : drra_wrapper
+Version: V-2023.12-SP4
+Date   : Fri Jan  9 18:47:23 2026
+****************************************
+
+Library(s) Used:
+
+    GF22FDX_SC8T_104CPP_BASE_CSC28L_FFG_0P72V_0P00V_0P00V_0P00V_M40C (File: /opt/pdk/gfip/22FDX-EXT/GF22FDX_SC8T_104CPP_BASE_CSC28L_FDK_RELV06R60/model/timing/ccs_db/GF22FDX_SC8T_104CPP_BASE_CSC28L_FFG_0P72V_0P00V_0P00V_0P00V_M40C_ccs.db)
+
+Number of ports:                       356029
+Number of nets:                       1093721
+Number of cells:                       747225
+Number of combinational cells:         665690
+Number of sequential cells:             77679
+Number of macros/black boxes:               0
+Number of buf/inv:                     180581
+Number of references:                      18
+
+Combinational area:             243581.244039
+Buf/Inv area:                    26895.697991
+Noncombinational area:          130920.259315
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (No wire load specified)
+
+Total cell area:                374501.503354
+Total area:                 undefined
+1
