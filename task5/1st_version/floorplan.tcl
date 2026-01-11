@@ -2,10 +2,10 @@
 set margin 100
 #2. set width for Silago design blocks
 set tile_w 180
-set core_w [expr {2*$margin + 8*$tile_w}]
+set core_w [expr {8*$tile_w}]
 #3. set height for Silago design blocks
 set tile_h 180
-set core_h [expr {2*$margin + 2*$tile_h}]
+set core_h [expr {2*$tile_h}]
 #4. create floorplan area
 #set_io_flow_flag 0
 create_floorplan \
