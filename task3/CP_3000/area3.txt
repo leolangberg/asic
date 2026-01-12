@@ -1,0 +1,34 @@
+Warning: Design 'Silago_top_left_corner' has '42' unresolved references. For more detailed information, use the "link" command. (UID-341)
+ 
+****************************************
+Report : area
+Design : Silago_top_left_corner
+Version: V-2023.12-SP4
+Date   : Sun Jan 11 22:09:48 2026
+****************************************
+
+Library(s) Used:
+
+    gtech (File: /opt/tools/synopsys/syn/V-2023.12-SP4/libraries/syn/gtech.db)
+    GF22FDX_SC8T_104CPP_BASE_CSC28L_FFG_0P72V_0P00V_0P00V_0P00V_M40C (File: /opt/pdk/gfip/22FDX-EXT/GF22FDX_SC8T_104CPP_BASE_CSC28L_FDK_RELV06R60/model/timing/ccs_db/GF22FDX_SC8T_104CPP_BASE_CSC28L_FFG_0P72V_0P00V_0P00V_0P00V_M40C_ccs.db)
+
+Number of ports:                        22157
+Number of nets:                         64162
+Number of cells:                        45099
+Number of combinational cells:          40585
+Number of sequential cells:              4331
+Number of macros/black boxes:               0
+Number of buf/inv:                      10896
+Number of references:                       9
+
+Combinational area:              14136.545191
+Buf/Inv area:                     1680.506883
+Noncombinational area:            6758.901798
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (No wire load specified)
+
+Total cell area:                 20895.446989
+Total area:                 undefined
+
+Information: This design contains unmapped logic. (RPT-7)
+1

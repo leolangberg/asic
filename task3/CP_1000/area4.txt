@@ -1,0 +1,34 @@
+Warning: Design 'drra_wrapper' has '74' unresolved references. For more detailed information, use the "link" command. (UID-341)
+ 
+****************************************
+Report : area
+Design : drra_wrapper
+Version: V-2023.12-SP4
+Date   : Mon Jan 12 00:17:46 2026
+****************************************
+
+Library(s) Used:
+
+    GF22FDX_SC8T_104CPP_BASE_CSC28L_FFG_0P72V_0P00V_0P00V_0P00V_M40C (File: /opt/pdk/gfip/22FDX-EXT/GF22FDX_SC8T_104CPP_BASE_CSC28L_FDK_RELV06R60/model/timing/ccs_db/GF22FDX_SC8T_104CPP_BASE_CSC28L_FFG_0P72V_0P00V_0P00V_0P00V_M40C_ccs.db)
+    gtech (File: /opt/tools/synopsys/syn/V-2023.12-SP4/libraries/syn/gtech.db)
+
+Number of ports:                       339485
+Number of nets:                       1023390
+Number of cells:                       721725
+Number of combinational cells:         662282
+Number of sequential cells:             57057
+Number of macros/black boxes:               0
+Number of buf/inv:                     156247
+Number of references:                      26
+
+Combinational area:             247496.767934
+Buf/Inv area:                    25805.112330
+Noncombinational area:           98701.624123
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (No wire load specified)
+
+Total cell area:                346198.392057
+Total area:                 undefined
+
+Information: This design contains unmapped logic. (RPT-7)
+1
