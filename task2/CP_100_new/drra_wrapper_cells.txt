@@ -1,0 +1,71 @@
+ 
+****************************************
+Report : cell
+Design : drra_wrapper
+Version: V-2023.12-SP4
+Date   : Mon Jan 12 20:23:11 2026
+****************************************
+
+Attributes:
+    b - black box (unknown)
+    h - hierarchical
+    n - noncombinational
+    r - removable
+    u - contains unmapped logic
+
+Cell                      Reference       Library             Area  Attributes
+--------------------------------------------------------------------------------
+Silago_bot_inst_1_1       Silago_bot_0                    28262.041433
+                                                                    h, n
+Silago_bot_inst_2_1       Silago_bot_5                    28249.195354
+                                                                    h, n
+Silago_bot_inst_3_1       Silago_bot_4                    28237.547354
+                                                                    h, n
+Silago_bot_inst_4_1       Silago_bot_3                    28300.047194
+                                                                    h, n
+Silago_bot_inst_5_1       Silago_bot_2                    28347.770705
+                                                                    h, n
+Silago_bot_inst_6_1       Silago_bot_1                    28350.699347
+                                                                    h, n
+Silago_bot_l_corner_inst_0_1
+                          Silago_bot_left_corner          28272.890713
+                                                                    h, n
+Silago_bot_r_corner_inst_7_1
+                          Silago_bot_right_corner         28575.139645
+                                                                    h, n
+Silago_top_inst_1_0       Silago_top_0                    28941.153111
+                                                                    h, n
+Silago_top_inst_2_0       Silago_top_5                    28888.171355
+                                                                    h, n
+Silago_top_inst_3_0       Silago_top_4                    28944.947036
+                                                                    h, n
+Silago_top_inst_4_0       Silago_top_3                    28961.653594
+                                                                    h, n
+Silago_top_inst_5_0       Silago_top_2                    29067.816784
+                                                                    h, n
+Silago_top_inst_6_0       Silago_top_1                    29038.730069
+                                                                    h, n
+Silago_top_l_corner_inst_0_0
+                          Silago_top_left_corner          28897.489753
+                                                                    h, n
+Silago_top_r_corner_inst_7_0
+                          Silago_top_right_corner         28866.672471
+                                                                    h, n
+U1                        SC8T_TIELOX1_CSC28L
+                                          GF22FDX_SC8T_104CPP_BASE_CSC28L_TT_0P80V_0P00V_0P45V_M0P45V_25C
+                                                          0.133120  
+U2                        SC8T_CKBUFX4_CSC28L
+                                          GF22FDX_SC8T_104CPP_BASE_CSC28L_TT_0P80V_0P00V_0P45V_M0P45V_25C
+                                                          0.599040  
+U3                        SC8T_CKBUFX6_CSC28L
+                                          GF22FDX_SC8T_104CPP_BASE_CSC28L_TT_0P80V_0P00V_0P45V_M0P45V_25C
+                                                          0.865280  
+U4                        SC8T_CKBUFX6_CSC28L
+                                          GF22FDX_SC8T_104CPP_BASE_CSC28L_TT_0P80V_0P00V_0P45V_M0P45V_25C
+                                                          0.865280  
+U5                        SC8T_CKBUFX8_CSC28L
+                                          GF22FDX_SC8T_104CPP_BASE_CSC28L_TT_0P80V_0P00V_0P45V_M0P45V_25C
+                                                          0.998400  
+--------------------------------------------------------------------------------
+Total 21 cells                                            458205.427037
+1
