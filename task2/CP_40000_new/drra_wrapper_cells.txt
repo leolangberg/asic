@@ -1,0 +1,59 @@
+ 
+****************************************
+Report : cell
+Design : drra_wrapper
+Version: V-2023.12-SP4
+Date   : Thu Jan 15 18:22:20 2026
+****************************************
+
+Attributes:
+    b - black box (unknown)
+    h - hierarchical
+    n - noncombinational
+    r - removable
+    u - contains unmapped logic
+
+Cell                      Reference       Library             Area  Attributes
+--------------------------------------------------------------------------------
+Silago_bot_inst_1_1       Silago_bot_0                    21909.688299
+                                                                    h, n
+Silago_bot_inst_2_1       Silago_bot_5                    21922.467819
+                                                                    h, n
+Silago_bot_inst_3_1       Silago_bot_4                    21922.467819
+                                                                    h, n
+Silago_bot_inst_4_1       Silago_bot_3                    21922.467819
+                                                                    h, n
+Silago_bot_inst_5_1       Silago_bot_2                    21922.467819
+                                                                    h, n
+Silago_bot_inst_6_1       Silago_bot_1                    21909.688299
+                                                                    h, n
+Silago_bot_l_corner_inst_0_1
+                          Silago_bot_left_corner          21896.908779
+                                                                    h, n
+Silago_bot_r_corner_inst_7_1
+                          Silago_bot_right_corner         21827.486697
+                                                                    h, n
+Silago_top_inst_1_0       Silago_top_0                    22522.772468
+                                                                    h, n
+Silago_top_inst_2_0       Silago_top_5                    22535.551988
+                                                                    h, n
+Silago_top_inst_3_0       Silago_top_4                    22535.551988
+                                                                    h, n
+Silago_top_inst_4_0       Silago_top_3                    22535.551988
+                                                                    h, n
+Silago_top_inst_5_0       Silago_top_2                    22535.551988
+                                                                    h, n
+Silago_top_inst_6_0       Silago_top_1                    22522.772468
+                                                                    h, n
+Silago_top_l_corner_inst_0_0
+                          Silago_top_left_corner          22491.223028
+                                                                    h, n
+Silago_top_r_corner_inst_7_0
+                          Silago_top_right_corner         22440.371186
+                                                                    h, n
+U1                        SC8T_TIELOX1_CSC28L
+                                          GF22FDX_SC8T_104CPP_BASE_CSC28L_FFG_0P72V_0P00V_0P00V_0P00V_M40C
+                                                          0.133120  
+--------------------------------------------------------------------------------
+Total 17 cells                                            355353.123569
+1
